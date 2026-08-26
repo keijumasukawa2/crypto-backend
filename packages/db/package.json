@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "@types/node": "catalog:",
-    "@types/pg": "^8.21.0",
+    "@types/pg": "^8.23.1",
     "dotenv": "^17.4.2",
     "prisma": "^7.9.1",
     "tsx": "^4.23.12",
